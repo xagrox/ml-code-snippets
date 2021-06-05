@@ -1,1 +1,1 @@
-# ml-code-snippets
+# ML-code-snippets
